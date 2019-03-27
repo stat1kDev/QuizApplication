@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <PreferenceCategory
+
+        android:title="@string/settings_billing"
+        android:key="billing" >
+        <Preference
+            android:key="purchase"
+            android:summary="@string/settings_purchase_summary"
+            android:title="@string/settings_purchase"/>
+        <Preference
+            android:key="subscribe"
+            android:summary="@string/settings_subscribe_summary"
+            android:title="@string/settings_subscribe" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

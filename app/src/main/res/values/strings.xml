@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="tv_description">Проверь свои знания</string>
+
+    <string name="tap_again">Нажмите Назад еще раз для выхода</string>
+
+
+    <!-- app social site links section -->
+    <string name="facebook_url">https://www.facebook.com/pg/fandroidinfo/</string>
+    <string name="youtube_url">https://www.youtube.com/user/vitaxafication</string>
+    <string name="twitter_user_id">twitter://user?user_id=1329640969</string> <!-- find your user id from here: http://gettwitterid.com/  -->
+    <string name="twitter_url">https://twitter.com/nepochatoff</string>
+    <string name="google_plus_url">https://plus.google.com/u/0/+vitaxafication</string>
+
+    <!-- privacy policy url -->
+    <string name="privacy_url">https://docs.google.com/document/d/1ZUrFQwbxDTpg_o9UUx9NtH_JtOSmVuZqD2FTLBJ5qno/edit?usp=sharing</string>
+
+    <!-- privacy policy url -->
+    <string name="site_url">http://www.fandroid.info/</string>
+
+    <!-- about developer text  -->
+    <string name="developer_name">Fandroid.info</string>
+    <string name="developer_detail">Уроки по разработке приложений</string>
+    <string name="developer_message">Данное приложение является сборником тестов по андроид-программированию. Приложение можно использовать для проверки своих знаний и для подготовки к собеседованию. Это приложение создано в рамках Продвинутого курса по разработке android приложений. Больше информации о наших курсах смотрите на сайте Fandroid.info, YouTube-канале "Start Android" и наших страницах в социальных сетях</string>
+
+
+    <string name="drawer_info">О приложении</string>
+    <string name="drawer_youtube">YouTube</string>
+    <string name="drawer_facebook">Facebook</string>
+    <string name="drawer_twitter">Twitter</string>
+    <string name="drawer_google_pluse">Google+</string>
+    <string name="drawer_settings">Настройки</string>
+    <string name="drawer_rating">Оцените приложение</string>
+    <string name="drawer_share">Поделитесь</string>
+    <string name="drawer_lisence">Соглашения</string>
+    <string name="drawer_exit">Выход</string>
+
+
+    <string name="site_menu_share">Поделиться</string>
+    <string name="quiz">Тестирование</string>
+    <string name="social">Ресурсы</string>
+    <string name="youtube">YouTube</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+
+    <string name="others">Others</string>
+    <string name="site">Fandroid.info</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="share">Поделиться</string>
+    <string name="rate">Оцените приложение</string>
+    <string name="settings">Настройки</string>
+    <string name="about_dev">О приложении</string>
+    <string name="exit">Выход</string>
+    <string name="site_menu_delete_all">Удалить все</string>
+
+    <string name="empty_result">Нет данных</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="tapAgain">Нажмите Назад еще раз для выхода!</string>
+    <string name="connect">Соединение</string>
+    <string name="permission_not_granted">Разрешения не предоставлены!</string>
+
+    <string name="share_text">Установить это приложение:</string>
+    <string name="send_to">отправить: </string>
+
+    <string name="close_prompt">Закрыть приложение?</string>
+    <string name="delete_all_notification">Удалить все уведомления?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="failed">Ошибка</string>
+
+    <string name="score_card">Результаты</string>
+    <string name="score">Верно</string>
+    <string name="wrong">Неверно</string>
+    <string name="skipped">Пропущено</string>
+    <string name="skip_text">Пропустить?</string>
+    <string name="skip_prompt">Пропустить этот вопрос?</string>
+    <string name="quiz_close_prompt">Закрыть приложение?</string>
+    <string name="share_prompt">Поделитесь результатом!</string>
+    <string name="share_now">Поделиться</string>
+    <string name="sharing_text" formatted="false">Мой результат %d. Проверь себя - </string>
+    <string name="play_again">Начать заново</string>
+    <string name="your_ans">Ваш ответ:</string>
+    <string name="correct_ans">Верный ответ:</string>
+
+    <string name="details_text">Подробно</string>
+    <string name="next_question">Следующий вопрос</string>
+    <string name="skipped_text">Вы пропустили этот вопрос</string>
+    <string name="item_counter" formatted="false">%d / %d</string>
+    <string name="no_internet">Интернет соединение недоступно!</string>
+    <string name="welcome_text">Проверьте ваши знания!</string>
+    <string name="ready_prompt">Вы готовы?</string>
+    <string name="quiz_prompt">Тестирование</string>
+    <string name="cancel_prompt">Прекратить тестирование?</string>
+    <string name="watch_video_prompt">Посмотрите видео для продолжения теста!</string>
+    <string name="reward_dialog_title">Еще один шанс?</string>
+    <string name="reward_dialog_message">Получить дополнительную попытку после просмотра видео?</string>
+
+    <string name="greeting_text1">Плохо. Подготовьтесь и пробуйте снова.</string>
+    <string name="greeting_text2">Хорошо. Но могло быть еще лучше.</string>
+    <string name="greeting_text3">Великолепно! Отличный результат!</string>
+
+
+    <string name="matches">matches</string>
+    <string name="title_post">Уведомление</string>
+    <string name="notifications">Уведомления</string>
+    <string name="read_post">Нажмите для прочтения</string>
+    <string name="notification_title">Заголовок: </string>
+    <string name="notification_details">Содержание: </string>
+
+
+    <string name="pref_notification_title">Настройка уведомлений</string>
+    <string name="pref_notification_summ">Включить/выключить уведомления</string>
+    <string name="pref_zoom_title">Zoom Controller</string>
+    <string name="pref_zoom_summ">Enable zoom controller to zoom in/out pages</string>
+    <string name="pref_text_title">Размер текста</string>
+    <string name="select_size">Выберите размер текста</string>
+
+    <string name="small_text">Маленький</string>
+    <string name="default_text">Средний</string>
+    <string name="large_text">Большой</string>
+    <string name="quiz_promt_third_text">Пройти тест снова?</string>
+    <string name="quiz_promt_first_text">Предыдущий результат: %s из %s</string>
+    <string name="quiz_question_title">Вопрос %d из %d</string>
+
+    <!-- app ad section -->
+    <string name="app_ad_id">ca-app-pub-9364475966292488~2561130029</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9364475966292488/6252963022</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9364475966292488/4365166283</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-9364475966292488/6225042866</string>
+
+    <!-- billing section -->
+    <string name="google_play_license">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiwSSLZxNUlW9rLf1JFfWXSRzUu/vQlu2T/04WRgFSeBBdApiiZJWTE5mfvJX2DObr/7K+BMa71HYpyoXLX9OUyY3KePVknxwfOokrhlS9e6By640We0ZCztjO/mLaqYODtPIBuLX94dQTahPsQl05s4s9OMtA0jxsALfDhfZihvK/7tU51npEtz89/2kufJmj7DPYaG0lVB+RJFBaLlfEVf22sXQsGPLlsJzglfXRm52APVi3Gi6ZFMQ7Ux49JSOi34DzJQEBmjpXvRoM8pDCntYZWsTsLxVhE555rz3UTBYgv4vOZdgfo9bvGnXIHgwqShXnhyjpGFhaGO04/u6eQIDAQAB</string>
+
+    <string name="settings_billing">Дополнительные возможности</string>
+    <string name="settings_billing_summary">Управление покупками</string>
+    <string name="product_id">stat1kdefirstid</string>
+    <string name="subscription_id">stat1kdevsecondid</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="settings_purchase_summary">Доступ к закрытым тестам и отключение рекламных баннеров</string>
+    <string name="settings_subscribe_summary">Доступ к закрытым тестам, без рекламы на 1 месяц.</string>
+    <string name="settings_purchase">VIP версия</string>
+    <string name="settings_subscribe">Подписка на 1 месяц</string>
+
+    <string name="settings_restore_purchase_success">Покупка восстановлена</string>
+    <string name="settings_purchase_success">Покупка подтверждена</string>
+    <string name="settings_subscribe_success">Подписка подтверждена</string>
+    <string name="settings_purchase_fail">Ошибка покупки</string>
+
+    <string name="dialog_purchase_title">Content locked.</string>
+    <string name="dialog_purchase">In order to view this content, you need to unlock the full version by making a one time purchase.\n\nThis will also remove advertisements throughout the app.</string>
+    <string name="alert_for_purchase">Доступ к данному тесту закрыт. Приобретите полный доступ в настройках приложения.</string>
+
+</resources>

@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "question_category": "1",
+      "category_name": "Тест 1"
+    },
+    {
+      "question_category": "2",
+      "category_name": "Тест 2"
+    },
+    {
+      "question_category": "3",
+      "category_name": "Тест 3"
+    },
+    {
+      "question_category": "4",
+      "category_name": "Тест 4"
+    },
+    {
+      "question_category": "5",
+      "category_name": "Тест 5"
+    },
+    {
+      "question_category": "6",
+      "category_name": "Тест 6"
+    },
+    {
+      "question_category": "7",
+      "category_name": "Тест 7"
+    },
+    {
+      "question_category": "8",
+      "category_name": "Тест 8"
+    },
+    {
+      "question_category": "9",
+      "category_name": "Тест 9"
+    },
+    {
+      "question_category": "10",
+      "category_name": "Тест 10"
+    },
+    {
+      "question_category": "11",
+      "category_name": "Тест 11"
+    },
+    {
+      "question_category": "12",
+      "category_name": "Тест 12"
+    }
+  ]
+}
