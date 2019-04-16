@@ -2,6 +2,7 @@ package stat1kDev.quizapp.utilities;
 
 import android.app.Activity;
 import android.content.Context;
+import android.os.Bundle;
 import android.view.View;
 
 import com.google.android.gms.ads.AdListener;
@@ -35,7 +36,9 @@ public class AdsUtilities {
         if (mDisableBannerAd) {
             mAdView.setVisibility(View.GONE);
         } else {
-            AdRequest adRequest = new AdRequest.Builder().build();
+            AdRequest adRequest = new AdRequest.Builder()
+                    .tagForChildDirectedTreatment(true)
+                    .build();
             mAdView.loadAd(adRequest);
 
             mAdView.setAdListener(new AdListener() {
@@ -59,7 +62,9 @@ public class AdsUtilities {
             mInterstitialAd = new InterstitialAd(activity);
             mInterstitialAd.setAdUnitId(activity.getResources().getString(R.string.interstitial_ad_unit_id));
 
-            AdRequest adRequest = new AdRequest.Builder().build();
+            AdRequest adRequest = new AdRequest.Builder()
+                    .tagForChildDirectedTreatment(true)
+                    .build();
             mInterstitialAd.loadAd(adRequest);
         }
     }
