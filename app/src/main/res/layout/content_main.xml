@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="14dp"
         android:elevation="2dp"
+        android:layout_above="@id/adsView"
         android:nestedScrollingEnabled="true"
         tools:targetApi="lollipop">
 
